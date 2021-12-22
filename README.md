@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+ 
 
-<!--
-**mhaddaou/mhaddaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h2  align="center">💻 Technologies </h2>
+ 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Here are some ideas to get you started:
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mhaddou&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaddaou&hide=TeX&layout=compact)
+
+
+
+
+- 🔭 I’m currently A cyber security Student at 1337.
+- 🌱 I’m currently learning  cyber security 
+- 👯 I’m looking to collaborate any Projects.
+- 💬 Ask me about Low Level system and netwoking related stuff.
