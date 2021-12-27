@@ -19,9 +19,7 @@
 </br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhaddaou&show_icons=true&theme=radical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhaddaou&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaddaou&hide=TeX&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaddaou&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/mhaddaou/github-readme-stats)
 
 
