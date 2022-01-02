@@ -28,7 +28,7 @@
 
 
 
-- 🔭 I’m currently A Student at 1337.
+- 🔭 I’m currently A Student software engineering at 1337.
 - 🌱 I’m currently learning  cyber security 
 - 👯 I’m looking to collaborate any Projects.
 - 💬 Ask me about Low Level system and netwoking related stuff.
