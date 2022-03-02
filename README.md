@@ -17,7 +17,9 @@
  
 </br>
 </br>
-[![mhaddaou 42 stats](https://badge42.herokuapp.com/api/stats/mhaddaou)
+![mhaddaou 42 stats](https://badge42.herokuapp.com/api/stats/mhaddaou)
+</br>
+</br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhaddaou&count_private=true)
