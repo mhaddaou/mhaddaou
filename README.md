@@ -40,6 +40,6 @@
 
 
 - 🔭 I’m currently A Student software engineering at 1337.
-- 🌱 I’m currently learning  cyber security 
+- 🌱 In The Future i Want To Be a Web penetration testing. 
 - 👯 I’m looking to collaborate any Projects.
 - 💬 Ask me about Low Level system and netwoking related stuff.
