@@ -2,11 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
  
-<style>
-  body{
-    background: black;
-      }
-</style>
+background: black;
  <h2  align="center">💻 Technologies </h2>
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
