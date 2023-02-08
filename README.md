@@ -32,7 +32,7 @@
 <br>
 <img src="https://badge.mediaplus.ma/binary/mhaddaou" alt="mhaddaou 42" width="500">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhaddaou&show_icons=true&locale=en&layout=compact" alt="mhaddaou" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaddaou&show_icons=true&locale=en" alt="mhaddaou" /></p>
 
