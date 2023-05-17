@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Haddaoui</h1>
-<h3 align="center">A passionate artificial intelligence from Morroco</h3>
+<h3 align="center">A passionate Penetration Testing from Morroco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaddaou&label=Profile%20views&color=0e75b6&style=flat" alt="mhaddaou" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhaddaou" target="blank"><img src="https://img.shields.io/twitter/follow/mhaddaou?logo=twitter&style=for-the-badge" alt="mhaddaou" /></a> </p>
 
-- 🔭 I’m currently working on [ft_containers](https://projects.intra.42.fr/ft_containers/mhaddaou)
+- 🔭 I’m currently working on [ft_transcendence](https://projects.intra.42.fr/ft_transcendence/mhaddaou)
 
 - 👨‍💻 All of my projects are available at [https://mhaddaoui.netlify.app/](https://mhaddaoui.netlify.app/)
 
