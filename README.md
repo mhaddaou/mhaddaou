@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ft_transcendence](https://projects.intra.42.fr/ft_transcendence/mhaddaou)
 
-- 👨‍💻 All of my projects are available at [https://mhaddaoui.netlify.app/](https://mhaddaoui.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mhaddaoui.netlify.app/]([https://mhaddaoui.netlify.app](https://mhaddaou-bsychom.vercel.app/)/)
 
 - 💬 Ask me about **c , c++**
 
