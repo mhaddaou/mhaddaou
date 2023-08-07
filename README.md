@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/mhaddaou" target="blank"><img src="https://img.shields.io/twitter/follow/mhaddaou?logo=twitter&style=for-the-badge" alt="mhaddaou" /></a> </p>
 
 - 🔭 I’m currently working on [ft_transcendence](https://projects.intra.42.fr/ft_transcendence/mhaddaou)
-- 🔭 I’m currently working on [ft_transcendence](https://mhaddaou-bsychom.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [[https://mhaddaoui.netlify.app](https://mhaddaou-bsychom.vercel.app/)/]([https://mhaddaoui.netlify.app](https://mhaddaou-bsychom.vercel.app/)/)
+- 👨‍💻  My portfolio is not yet [ft_transcendence](https://mhaddaou-bsychom.vercel.app/)
+
 
 - 💬 Ask me about **c , c++**
 
