@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ft_transcendence](https://projects.intra.42.fr/ft_transcendence/mhaddaou)
 
-- 👨‍💻  My portfolio is not yet [Portfolio](https://mhaddaoui.vercel.app/)
+- 👨‍💻  My portfolio  [Portfolio](https://mohamedhaddaoui.vercel.app/)
 
 
 - 💬 Ask me about **c , c++**
